@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://jloumaye.github.io/CARTE-FINALE/
+- Leaflet Map https://jloumaye.github.io/leaflet-maps-with-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/13sFDmnbHsvoerM1FRH50jPJPtrl9hEZ3rcNddb4mBpY/edit#gid=0
 
 ## Create your own
